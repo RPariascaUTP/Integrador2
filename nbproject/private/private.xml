@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Integrador2/CtasXPagar/web/RegistrarComprob.jsp</file>
+            <file>file:/C:/Integrador2/CtasXPagar/web/empleado.jsp</file>
+            <file>file:/C:/Integrador2/CtasXPagar/web/proveedores.jsp</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Modelo/Proveedor.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/web/principal.jsp</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Modelo/EmpleadoDAO.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/web/index.jsp</file>
+            <file>file:/C:/Integrador2/CtasXPagar/web/comprobante.jsp</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Config/Conexion.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Modelo/ComprobanteDAO.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Modelo/Comprobante.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Modelo/ProveedorDAO.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Modelo/Empleado.java</file>
+            <file>file:/C:/Integrador2/CtasXPagar/src/java/Controlador/Validar.java</file>
+        </group>
+    </open-files>
+</project-private>
